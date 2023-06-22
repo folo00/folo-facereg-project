@@ -1,0 +1,9 @@
+# flyctl launch added from factor_auth\.gitignore
+factor_auth\**\*.pyc  
+factor_auth\**\*~  
+factor_auth\**\__pycache__  
+factor_auth\**\myvenv  
+factor_auth\**\db.sqlite3  
+factor_auth\static  
+factor_auth\**\.DS_Store  
+factor_auth\**\.env
